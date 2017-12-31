@@ -291,7 +291,7 @@ header {
 @media (max-width: 640px) {
   header h1 {
     font-size: 70px;
-    padding-top: 200px; }
+    padding-top: 100px; }
   header h2 {
     font-size: 30px; } }
 h3 {
