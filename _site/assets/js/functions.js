@@ -1,5 +1,5 @@
 $(function() {
-	smoothScroll(1000);
+	smoothScroll(2000);
 	$("#header h1").fitText(1, { minFontSize: '50px', maxFontSize: '170px' });
 	$("#header h2").fitText(1, { minFontSize: '20px', maxFontSize: '32px' });
 
